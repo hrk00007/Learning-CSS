@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+}
+a:link{
+    color: yellowgreen;
+}
+a:visited{
+    color: black;
+}
+/* Always Remember link and visited should always be on the top of hover */
+a:hover{
+    color: red;
+}
+/* active should always be last if you are using link,visited or hover*/
+a:active{
+    color: aquamarine;
+}

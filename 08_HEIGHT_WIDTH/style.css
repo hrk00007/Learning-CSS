@@ -1,0 +1,10 @@
+body{
+    height: 600px;
+    border: 2px solid rebeccapurple;
+}
+#div1{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100%;
+    max-height: 200px;
+}
